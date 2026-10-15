@@ -18,27 +18,25 @@
 ---
 
 ### Ejercicio 3
-- **Apartado A:** Solución $4516,44_{(8)}$
-  - ![Ejercicio 3 - Apartado A](images/ejercicio3.png)
-- **Apartado B:** Solución $56b,2_{(16)}$
-  - ![Ejercicio 3 - Apartado B](images/ejercicio3.png)
+- Apartado A: Solución $4516,44_(8)
+- Apartado B: Solución $56b,2_(16)
+  - ![Ejercicio 3 ](images/ejercicio3.png)
 
 ---
 
 ### Ejercicio 4
-- **Apartado A:** Solución $1100101,101$
-  - ![Ejercicio 4 - Apartado A](images/ejercicio4.png)
-- **Apartado B:** Solución $011011,011$
-  - ![Ejercicio 4 - Apartado B](images/ejercicio4.png)
+- Apartado A: Solución $1100101,101$
+- Apartado B: Solución $011011,011$
+  - ![Ejercicio 4 ](images/ejercicio4.png)
 
 ---
 
 ### Ejercicio 5
-- **Apartado A:** Solución $11011100$
+- Apartado A: Solución 11011100
   - ![Ejercicio 5 - Apartado A](images/ejercicicio5-a.png)
-- **Apartado B:** Solución $00010111 = 23_{(10)}$
+- Apartado B: Solución $00010111 = 23_(10)
   - ![Ejercicio 5 - Apartado B](images/ejercicio5-.png)
-- **Apartado C:** $(-82) + (-102)$ en C2 (¿Desbordamiento?)
+- **Apartado C:** $(-82) + (-102) en C2 (¿Desbordamiento?)
   - ![Ejercicio 5 - Apartado C](images/ejercicio5-.png)
 - **Apartado D:** En signo y magnitud $(-66) + (89)$ $\rightarrow$ Solución $24 = 00010111$
   - ![Ejercicio 5 - Apartado D](images/ejercici5-d.png)
