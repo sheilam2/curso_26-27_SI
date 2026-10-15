@@ -35,9 +35,9 @@
 - Apartado A: Solución 11011100
   - ![Ejercicio 5 - Apartado A](images/ejercicicio5-a.png)
 - Apartado B: Solución $00010111 = 23_(10)
-  - ![Ejercicio 5 - Apartado B](images/ejercicio5-.png)
+  - ![Ejercicio 5 - Apartado B](images/ejercicio5.png)
 - **Apartado C:** $(-82) + (-102) en C2 (¿Desbordamiento?)
-  - ![Ejercicio 5 - Apartado C](images/ejercicio5-.png)
+  - ![Ejercicio 5 - Apartado C](images/ejercicio5.png)
 - **Apartado D:** En signo y magnitud $(-66) + (89)$ $\rightarrow$ Solución $24 = 00010111$
   - ![Ejercicio 5 - Apartado D](images/ejercici5-d.png)
 
